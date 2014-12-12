@@ -1,0 +1,52 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" x2="27.5" y1=".5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <g id="face">
+   <use xlink:href="#face2"/>
+   <use xlink:href="#face2" transform="rotate(90)"/>
+   <use xlink:href="#face2" transform="rotate(180)"/>
+   <use xlink:href="#face2" transform="rotate(270)"/>
+  </g>
+  <g id="face2">
+   <use xlink:href="#face1"/>
+   <use xlink:href="#face1" transform="rotate(30)"/>
+   <use xlink:href="#face1" transform="rotate(60)"/>
+   <use xlink:href="#mark3"/>
+   <use xlink:href="#mark2" transform="rotate(30)"/>
+   <use xlink:href="#mark2" transform="rotate(60)"/>
+  </g>
+  <g id="face1">
+   <use xlink:href="#mark1" transform="rotate(6)"/>
+   <use xlink:href="#mark1" transform="rotate(12)"/>
+   <use xlink:href="#mark1" transform="rotate(18)"/>
+   <use xlink:href="#mark1" transform="rotate(24)"/>
+  </g>
+  <path id="mark3" d="m-40-1e3h80v300h-80z"/>
+  <path id="mark2" d="m-40-1e3h80v240h-80z"/>
+  <path id="mark1" d="m-20-1e3h40v100h-40z"/>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="-.0625" fill="#fff"/>
+  <use xlink:href="#face" transform="matrix(.021 0 0 .021 24 1028.4)" width="1" y="0" x="0" height="1" class="fc" fill="#000000"/>
+ </g>
+ <g>
+  <flowRoot opacity=".25" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(32.627 -1001.2)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect height="49.321" width="57.629" y="6.6343" x="-53.033" fill="#000"/></flowRegion><flowPara/></flowRoot>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-104.89 -1017.8)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".25" d="m18.031 5.625l-0.125 0.25 1.844 5.844c-1.081 0.524-1.681 1.887-1.312 3.031 0.048 0.151 0.109 0.301 0.187 0.438 0.039 0.069 0.11 0.122 0.156 0.187 0.035 0.049 0.056 0.11 0.094 0.156 0.055 0.068 0.126 0.126 0.187 0.188 0.043 0.042 0.08 0.086 0.126 0.125l2.75 2.75 1.406 4.468-0.5 0.75-4.094 2.969 1 1.344 0.062 0.063-3.812 5.593 0.281 1.469 12.75 12.75h14.407 2.5c0.138 0 0.275-0.005 0.406-0.031 0.913-0.186 1.594-0.999 1.594-1.969v-10.594-15.031l-7.969-7.969-1.188-0.187-8.125 5.906-12.375-12.375-0.25-0.125z"/>
+ </g>
+ <g>
+  <path d="m17.729 34.979-1.4601 0.2706-0.2706-1.4601 9.5156-13.845 1.7307 1.1895z"/>
+  <path d="m38.797 12.211 1.1733 0.18583-0.18583 1.1733-20.047 14.565-0.98748-1.3591z"/>
+  <path d="m18.031 5.625-0.125 0.25 1.8438 5.8438a2.52 2.52 0 0 0 1.5312 4.75l4.2812 13.656 0.78125-0.25-4.5625-13.562a2.52 2.52 0 0 0 -1.5625 -4.75l-1.9375-5.8125-0.25-0.125zm2.625 7.125a1.26 1.26 0 0 1 0.5 2.4688 1.2649 1.2649 0 0 1 -0.781 -2.407 1.26 1.26 0 0 1 0.281 -0.062z" fill="#a00"/>
+ </g>
+ <g>
+  <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+ </g>
+ <style type="text/css">.bg {stroke: none; fill: white;}
+    .fc {stroke: none; fill: black;}
+    .h1 {stroke: none; fill: black;}
+    .h2 {stroke: none; fill: #aa0000;}</style>
+</svg>

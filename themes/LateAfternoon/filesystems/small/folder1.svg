@@ -1,0 +1,11 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="0" height="32" width="9" y="1012.4" x="27" fill="#4d4d4d"/>
+  <g transform="translate(-29.509 1004.5)">
+   <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  </g>
+  <g style="color:#000000" transform="translate(1 1004.4)" fill="#4d4d4d">
+   <path style="color:#000000" d="m10 8v32l13.333 8v-48z" fill="#4d4d4d"/>
+  </g>
+ </g>
+</svg>

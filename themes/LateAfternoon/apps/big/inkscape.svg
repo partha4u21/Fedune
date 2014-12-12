@@ -1,0 +1,36 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" x2="27.5" y1=".5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="0" fill="#ccc"/>
+  <path id="path3044" d="m4 1004.4v48" stroke="#666" stroke-width=".5" fill="none"/>
+  <use id="use3059" xlink:href="#path3044" transform="translate(10)" height="48" width="48" y="0" x="0"/>
+  <path id="path3044-0" d="m0 1008.4h48" stroke="#666" stroke-width=".5" fill="none"/>
+  <use id="use3114" xlink:href="#path3044-0" transform="translate(0,10)" height="48" width="48" y="0" x="0"/>
+  <use id="use3116" xlink:href="#use3114" transform="translate(0,10)" height="48" width="48" y="0" x="0"/>
+  <use id="use3118" xlink:href="#use3116" transform="translate(0,10)" height="48" width="48" y="0" x="0"/>
+  <use xlink:href="#use3118" transform="translate(0,10)" height="48" width="48" y="0" x="0"/>
+  <use id="use3890" xlink:href="#use3059" transform="translate(10)" height="48" width="48" y="0" x="0"/>
+  <use id="use3892" xlink:href="#use3890" transform="translate(10)" height="48" width="48" y="0" x="0"/>
+  <use xlink:href="#use3892" transform="translate(10)" height="48" width="48" y="0" x="0"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".25" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m32 12v0.5 3 0.5l1 1c-0.166 0.576-0.379 1.164-0.688 1.781-0.885 1.771-2.397 3.503-5.093 4.281-0.04 0.012-0.085 0.021-0.125 0.032l-1.094-1.094h-0.5-3-0.5v0.5 1.031c-1.499 0.009-2.828 0.012-3.844 0.125-1.454 0.162-2.507 0.507-3.25 1.25s-1.088 1.796-1.25 3.25c-0.056 0.508-0.077 1.104-0.094 1.75-0.016 0.647-0.026 1.345-0.031 2.094h-1.031-0.5v0.5 3 0.5l1.562 1.562c0.014 0.848 0.024 1.645 0.094 2.282 0.162 1.454 0.507 2.507 1.25 3.25l4.906 4.906h26.188c1.108 0 2-0.892 2-2v-22l-12-12h-0.5-3-0.5z"/>
+ </g>
+ <g>
+  <path d="m24 44c-10 0-10 0-10-10s0-10 10-10 10-10 10-10" stroke="#005c94" stroke-width="1px" fill="none"/>
+  <path d="m24 24h10" stroke="#0084c8" stroke-width="1px" fill="none"/>
+  <rect id="rect3913" style="color:#000000" height="3" width="3" stroke="#005c94" stroke-linecap="round" y="32.5" x="12.5" fill="#0084c8"/>
+  <path style="color:#000000" d="m35 13.5a1.5 1.5 0 1 1 -3 0 1.5 1.5 0 1 1 3 0z" transform="translate(.5 10.5)" stroke="#b50000" stroke-linecap="round" fill="#ff4141"/>
+  <use xlink:href="#rect3913" transform="translate(10,-10)" height="48" width="48" y="0" x="0"/>
+  <use xlink:href="#rect3913" transform="translate(10,10)" height="48" width="48" y="0" x="0"/>
+  <use xlink:href="#rect3913" transform="translate(20,-20)" height="48" width="48" y="0" x="0"/>
+  <path d="m34.671 24.44 3.4456 5.9679c0.32454-0.03707 0.70416 0.13489 0.87649 0.43338 0.23033 0.39894 0.06229 0.90346-0.33693 1.1339-0.39924 0.2305-0.88102 0.10116-1.1113-0.29778-0.17211-0.29811-0.13253-0.7151 0.06293-0.97575l-3.4456-5.9679 0.22997 7.7201 4.4793 3.781-1.7614 1.0169 1.4915 2.5834 6.9282-4-1.4915-2.5834-1.7614 1.0169-1.0348-5.7697z" stroke="#2d2d2d" stroke-width=".5" fill="#fff"/>
+ </g>
+ <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+</svg>

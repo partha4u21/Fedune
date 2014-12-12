@@ -1,0 +1,25 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient4032" y2="1052.4" gradientUnits="userSpaceOnUse" y1="1027.4" x2="20" x1="20">
+   <stop stop-color="#19aeff" offset="0"/>
+   <stop stop-color="#19aeff" stop-opacity=".34756" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect ry="2" style="color:#000000" transform="translate(0 1004.4)" height="48" width="48" y="0" x="0" fill="#0084c8"/>
+  <g transform="translate(-40.191 1005.5)">
+   <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-18.262 -1007.9)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  </g>
+  <path style="color:#000000" d="m2 1010.4h17c3 0 1 5 4 5h23c1.0177 0.043 2 1 2 2v33c0 1.108-0.892 2-2 2h-44c-1.108 0-2-0.892-2-2v-38c0-1.108 0.892-2 2-2z" fill="url(#linearGradient4032)"/>
+  <path opacity=".2" style="color:#000000" d="m2 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h16c3 0 1 5 4 5h24c1.018 0.043 2 1 2 2v-1c0-1-0.982-1.957-2-2h-23c-3 0-1-5-4-5h-17z" transform="translate(0 1004.4)" fill="#fff"/>
+  <path opacity=".2" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h44c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-44z" transform="translate(0 1004.4)" fill="#fff"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".25" style="color:#000000" d="m21.5 20c-5.859 0-0.729 3.308-2.125 4.75-0.093 0.096-0.219 0.172-0.375 0.25h-5v5c0.057 0.114 0.121 0.202 0.188 0.281 0.044 0.053 0.076 0.118 0.124 0.157l4.376 4.343c-0.941 2.003-3.663-1.831-4.688 0.219v5l8 8h24c1.108 0 2-0.892 2-2v-2l-19-19h-0.406l-4.406-4.406c-0.009-0.01-0.023-0.022-0.032-0.032-0.014-0.014-0.047-0.017-0.062-0.031-0.178-0.16-0.441-0.283-0.844-0.375-0.428-0.098-0.994-0.156-1.75-0.156z"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-77.791 -1001)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path style="color:#000000" d="m14 25h5c2.5-1.25-3.75-5 2.5-5s0 3.75 2.5 5h5v5c1.25 2.5 5-3.75 5 2.5s-3.75 0-5 2.5v5h-5c-2.5-1.25 3.75-5-2.5-5s0 3.75-2.5 5h-5v-5c1.25-2.5 5 3.75 5-2.5s-3.75 0-5-2.5z" fill="#fff"/>
+ </g>
+</svg>

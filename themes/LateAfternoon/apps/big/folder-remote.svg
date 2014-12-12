@@ -1,0 +1,30 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient4032" y2="1052.4" gradientUnits="userSpaceOnUse" x2="20" y1="1027.4" x1="20">
+   <stop stop-color="#19aeff" offset="0"/>
+   <stop stop-color="#19aeff" stop-opacity=".34756" offset="1"/>
+  </linearGradient>
+  <filter id="filter4879" height="1.28" width="1.21" y="-.14" x="-.105">
+   <feGaussianBlur stdDeviation="0.875"/>
+  </filter>
+  <clipPath id="clipPath4901" clipPathUnits="userSpaceOnUse">
+   <path opacity=".25" style="color:#000000" d="m15.25 22v5l6.25 6.25h-7.5v2.5l12.25 12.25h19.75c1.108 0 2-0.892 2-2v-8.75l-15.25-15.25h-17.5z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" transform="translate(0 1004.4)" ry="2" height="48" width="48" y="0" x="0" fill="#0084c8"/>
+  <g transform="translate(-40.191 1005.5)">
+   <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  </g>
+  <path style="color:#000000" d="m2 1010.4h17c3 0 1 5 4 5h23c1.0177 0.043 2 1 2 2v33c0 1.108-0.892 2-2 2h-44c-1.108 0-2-0.892-2-2v-38c0-1.108 0.892-2 2-2z" fill="url(#linearGradient4032)"/>
+  <path opacity=".2" style="color:#000000" d="m2 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h16c3 0 1 5 4 5h24c1.018 0.043 2 1 2 2v-1c0-1-0.982-1.957-2-2h-23c-3 0-1-5-4-5h-17z" transform="translate(0 1004.4)" fill="#fff"/>
+  <path opacity=".2" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h44c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-44z" transform="translate(0 1004.4)" fill="#fff"/>
+ </g>
+ <g>
+  <path opacity=".25" style="color:#000000" d="m15.25 22v5l6.25 6.25h-7.5v2.5l12.25 12.25h19.75c1.108 0 2-0.892 2-2v-8.75l-15.25-15.25h-17.5z"/>
+  <path opacity=".6" filter="url(#filter4879)" style="color:#000000" d="m15.25 22v5h7.5v5h-1.25v1.25h-7.5v2.5h7.5v1.25h5v-1.25h7.5v-2.5h-7.5v-1.25h-1.25v-5h7.5v-5h-17.5zm15 1.25h1.25v1.25h-1.25v-1.25z" clip-path="url(#clipPath4901)"/>
+ </g>
+ <g>
+  <path style="color:#000000" d="m15.25 22v5h7.5v5h-1.25v1.25h-7.5v2.5h7.5v1.25h5v-1.25h7.5v-2.5h-7.5v-1.25h-1.25v-5h7.5v-5h-17.5zm15 1.25h1.25v1.25h-1.25v-1.25z" fill="#fff"/>
+ </g>
+</svg>

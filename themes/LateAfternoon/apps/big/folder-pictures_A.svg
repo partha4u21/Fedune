@@ -1,0 +1,20 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="0" height="32" width="25" y="1012.4" x="10" fill="#bb8f4d"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-78.137 -1010)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <g transform="translate(-2.625)">
+   <rect style="color:#000000" transform="rotate(15)" height="19.815" width="16.409" y="4.5606" x="29.065" fill="#fff"/>
+   <rect style="color:#000000" transform="rotate(15)" height="14.861" width="13.21" y="6.2118" x="30.716" fill="#ffc022"/>
+   <path d="m25.498 23.52s2.0223-1.1676 3.6173-0.74022c1.5949 0.42736 2.7625 2.4497 4.3575 2.877 1.5949 0.42736 3.1899 0.85473 5.2122-0.31285l2.1368-7.9747-12.76-3.4189z" fill="#94d9ff"/>
+   <path opacity=".82955" style="color:#000000" transform="matrix(1.5949 .42736 -.42736 1.5949 .32553 -21.976)" fill="#f60" d="m29 24-0.59549 0.29389-0.09549 0.65716-0.46353-0.47553-0.65451 0.11226l0.309-0.587-0.30902-0.58778 0.65451 0.11226 0.46353-0.47553 0.09549 0.65716z"/>
+   <rect style="color:#000000" fill-opacity=".52869" transform="rotate(15)" height="6.6048" width="13.21" y="6.2118" x="30.716" fill="#fff"/>
+  </g>
+  <path opacity=".2" d="m10 8v32h25v-4.688l0.5-1.812-25.5-25.5z"/>
+  <path style="color:#000000" d="m10 8v32l13.333 8v-48z" fill="#bb8f4d"/>
+ </g>
+</svg>

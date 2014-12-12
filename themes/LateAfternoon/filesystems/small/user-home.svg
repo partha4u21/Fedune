@@ -1,0 +1,12 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(-644.57 -451.79)">
+  <g fill-rule="evenodd" fill="#0084c8">
+   <rect height="2" width="14" y="465.79" x="645.57"/>
+   <rect transform="rotate(-90)" height="2" width="6" y="656.57" x="-457.79"/>
+   <rect ry="0" transform="rotate(-90)" height="2" width="5.9999" y="645.57" x="-467.79"/>
+   <rect transform="matrix(.70709 .70712 .70709 -.70712 0 0)" height="2.1333" width="11.313" y="139.86" x="780.91"/>
+   <rect transform="matrix(-.70709 .70712 .70709 .70712 0 0)" height="2.1333" width="11.313" y="780.91" x="-141.99"/>
+   <rect transform="rotate(-90)" height="2" width="5.9999" y="657.57" x="-467.79"/>
+  </g>
+ </g>
+</svg>

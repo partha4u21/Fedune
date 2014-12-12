@@ -1,0 +1,20 @@
+<svg viewBox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="22">
+ <defs>
+  <clipPath id="clip1">
+   <rect width="22" height="22"/>
+  </clipPath>
+  <filter id="alpha" height="100%" width="100%" y="0" x="0" filterUnits="objectBoundingBox">
+   <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="SourceGraphic"/>
+  </filter>
+  <g id="surface6" style="clip-path:url(#clip1)">
+   <path d="m43.602 24c0 10.824-8.778 19.602-19.602 19.602s-19.602-8.778-19.602-19.602c-0.0003-10.824 8.778-19.602 19.602-19.602 10.824-0.0003 19.602 8.778 19.602 19.602z" stroke-opacity=".941" fill-opacity=".941" transform="scale(.45833)" stroke="#859900" stroke-width=".792" fill="#53a93e"/>
+  </g>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect fill-opacity=".502" height="22" width="22" y="0" x="0"/>
+   </g>
+  </mask>
+ </defs>
+ <use style="mask:url(#mask0)" xlink:href="#surface6"/>
+ <path d="m11.055 4.582c-3.1878 0-5.7855 2.6992-5.9808 6.094h-1.8672l3.0039 4.867 3.0039-4.867h-2.1367c0.1836-2.2033 1.8907-3.926 3.9769-3.926 0.769 0 1.5 0.2383 2.109 0.6445l1.027-1.8437c-0.91-0.6094-1.988-0.9688-3.136-0.9688zm4.734 1.875l-3.004 4.867h2.137c-0.184 2.203-1.891 3.926-3.977 3.926-0.769 0-1.4997-0.238-2.1091-0.645l-1.0273 1.844c0.9102 0.61 1.9883 0.969 3.1364 0.969 3.188 0 5.785-2.699 5.981-6.094h1.867z" fill="#fff"/>
+</svg>

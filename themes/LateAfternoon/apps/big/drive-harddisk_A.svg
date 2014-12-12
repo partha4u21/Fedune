@@ -1,0 +1,24 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" y1=".5" x2="27.5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <path style="color:#000000" d="m2 1004.4h44c1.108 0 2 0.892 2 2v44c0 1.108-0.892 2-2 2h-44c-1.108 0-2-0.892-2-2v-44c0-1.108 0.892-2 2-2z" fill="#364e59"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-18.262 -1007.9)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".2" style="color:#000000" d="m13.844 8c-0.469 0-0.844 0.3826-0.844 0.875v30.25c0 0.254 0.088 0.463 0.25 0.625l8.25 8.25h24.5c1.108 0 2-0.892 2-2v-24.5l-13.25-13.25c-0.152-0.1516-0.367-0.25-0.594-0.25h-20.312z"/>
+ </g>
+ <g>
+  <path style="color:#000000" d="m13.846 8h20.308c0.469 0 0.846 0.3964 0.846 0.8889v30.222c0 0.493-0.377 0.889-0.846 0.889h-20.308c-0.469 0-0.846-0.396-0.846-0.889v-30.222c0-0.4926 0.377-0.889 0.846-0.889z" fill="#bdcdd4"/>
+  <rect style="color:#000000" fill-opacity=".58607" ry=".88890" height="3.5556" width="10.667" y="10.667" x="16.556" fill="#364e59"/>
+  <g fill-opacity=".58607" transform="matrix(.9375 0 0 .9375 2.8542 .34722)" fill="#364e59">
+   <path style="color:#000000" d="m22.556 20.667c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8c1.3139 0 2.5451-0.32758 3.6389-0.88889l-2.75-6.2222 4.7778 4.7778c1.4477-1.4477 2.3333-3.4575 2.3333-5.6667 0-4.4183-3.5817-8-8-8z"/>
+   <path d="m30.556 37.556-5.3333-5.3333 2.6667 5.3333z"/>
+  </g>
+ </g>
+ <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+</svg>

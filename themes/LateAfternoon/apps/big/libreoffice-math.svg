@@ -1,0 +1,24 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" x2="27.5" y1=".5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m2 1004.4c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-19-1.4375l-25.562-25.562h-1.4688-18.969z" fill="#b50000"/>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m4 1008.4h17l23 23v17h-40z" fill="#fff"/>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m27 1004.4 21 21v-19c0-1.108-0.892-2-2-2z" fill="#b50000"/>
+ </g>
+ <g>
+  <path opacity=".25" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m16.094 22.25l-0.063 0.688-0.937 8.781-2.313-2.313-2.781 3.782 3.062 3.062 1.5 3.75 8 8h23.438c1.108 0 2-0.892 2-2v-7.75l-16-16h-15.188-0.718z"/>
+ </g>
+ <g fill="#b50000">
+  <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-weight="bold" xml:space="preserve" font-size="15.659px" y="38.955276" x="18.761765" font-family="TheMixPlain"><tspan font-size="18.235px" font-style="italic" y="38.955276" x="18.761765" fill="#b50000">x</tspan></text>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m16.092 22.24-0.04749 0.71237-1.2346 11.519-2.0419-5.0613l-2.768 3.769 1.723-0.302 2.85 7.123 1.4721-0.23736 1.5196-14.483h14.436v-3.0391h-15.196z"/>
+ </g>
+ <g fill="url(#linearGradient12443)">
+  <path opacity=".4" style="color:#000000" d="m27 0 0.5 0.5 2.9601 2.95h0.64926l-2.968-2.95h17.859c0.83101 0 1.5 0.66899 1.5 1.5v18.5l0.5 0.5v-19c0-1.108-0.892-2-2-2z"/>
+  <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c0.554 0 1.0448-0.23225 1.4062-0.59375 0.362-0.361 0.594-0.852 0.594-1.406v-19-1.4375l-0.5-0.5v20.938c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5h20.261l2.9862 2.95h0.63687l-2.946-2.95-0.5-0.5z"/>
+ </g>
+</svg>

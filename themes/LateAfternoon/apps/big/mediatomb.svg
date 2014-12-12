@@ -1,0 +1,26 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient5352" y2="20.5" gradientUnits="userSpaceOnUse" x2="20" y1="45.5" x1="45">
+   <stop stop-color="#26363e" offset="0"/>
+   <stop stop-color="#26373e" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5371" y2="23" gradientUnits="userSpaceOnUse" y1="3" x2="22.5" x1="2.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="0" fill="#2d2d2d"/>
+ </g>
+ <g>
+  <path opacity=".4" d="m13.219 11.812l-5.6878 4.626v14.406l-1.5312 1.531 3.6562 3.656 11.969 11.969h24.375c1.108 0 2-0.892 2-2v-27.75l-6-6h-11.812l-4.188 4.188 5 5v0.531l-5.531-5.531-5.344-4.626-3.563 3.032-3.343-3.032z"/>
+  <path opacity=".22835" fill="#0e232e" d="m11.721 16.442 2.6071 2.6071 28.284 28.284-2.6071-2.6071z"/>
+ </g>
+ <g>
+  <path fill="#ccc" d="m25.99 16.442 4.2003-4.2003h11.81l-4.2003 4.2003h-2.251v14.411l1.5208 1.5208-3.818 3.818-3.818-3.818 1.5208-1.5208 0.032-14.411zm-18.469 0v14.411l-1.521 1.521 3.6571 3.6571 3.6571-3.6571-1.5208-1.5208-0.0724-14.411 2.6071 2.6071v11.804l-1.5208 1.5208 3.7658 3.7658 3.7658-3.7658-1.738-1.5208v-14.411l2.6071 2.6071v11.804l-1.5208 1.5208 3.5847 3.5847 3.6571-3.5847-1.4484-1.5208v-14.411l-5.3517-4.6348-3.5558 3.0416-3.3488-3.0416z"/>
+ </g>
+ <g>
+  <path opacity=".1" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient5371)"/>
+  <path style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient5352)"/>
+ </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <filter id="filter4945" height="2.9168" width="1.3557" y="-.95842" x="-.17783">
+   <feGaussianBlur stdDeviation="0.7261765"/>
+  </filter>
+  <filter id="filter4949" height="1.631" width="1.5719" y="-.31549" x="-.28596">
+   <feGaussianBlur stdDeviation="1.4619237"/>
+  </filter>
+  <clipPath id="clipPath5297" clipPathUnits="userSpaceOnUse">
+   <path d="m7.0625 8.7812v2.4062l4.7188 4.7188-4.7188 1.625v2.375l28.094 28.094h10.844c1.108 0 2-0.892 2-2v-4.094l-28.656-28.687-12.282-4.4378z" fill="#fff"/>
+  </clipPath>
+  <clipPath id="clipPath5319" clipPathUnits="userSpaceOnUse">
+   <path d="m21.438 23.312v1.8125l22.874 22.876h1.688c1.108 0 2-0.892 2-2v-5.9062l-16.781-16.781h-9.7812z" fill="#fff"/>
+  </clipPath>
+  <linearGradient id="linearGradient5371" y2="3.3773" gradientUnits="userSpaceOnUse" x2="22.5" y1="-.016638" x1="22.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="0" fill="#b50000"/>
+ </g>
+ <g>
+  <path opacity=".2" d="m7.0625 8.7812v2.4062l4.7188 4.7188-4.7188 1.625v2.375l28.094 28.094h9.156 1.688c0.1385 0 0.27582-0.0047 0.40625-0.03125 0.913-0.186 1.594-0.999 1.594-1.969v-4.0938-1.8125l-16.781-16.781h-1.7812l-10.094-10.094-12.282-4.4378z"/>
+  <path d="m7.0768 11.188v-2.3927l12.27 4.4312v2.2587l-12.27 4.4312v-2.3927l9.2357-3.1583-9.2357-3.1775" clip-path="url(#clipPath5297)" filter="url(#filter4949)"/>
+  <path d="m31.224 23.304v1.8184h-9.8004v-1.8184h9.8004" clip-path="url(#clipPath5319)" filter="url(#filter4945)"/>
+ </g>
+ <g>
+  <g fill="#fff">
+   <path style="" d="m7.0768 11.188v-2.3927l12.27 4.4312v2.2587l-12.27 4.4312v-2.3927l9.2357-3.1583-9.2357-3.1775"/>
+   <path style="" d="m31.224 23.304v1.8184h-9.8004v-1.8184h9.8004"/>
+  </g>
+ </g>
+ <path opacity=".5" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient5371)"/>
+</svg>

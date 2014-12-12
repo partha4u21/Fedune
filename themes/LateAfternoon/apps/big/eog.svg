@@ -1,0 +1,40 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" x2="27.5" y1=".5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter5185" height="1.216" width="1.27" y="-.108" x="-.135">
+   <feGaussianBlur stdDeviation="1.35"/>
+  </filter>
+  <clipPath id="clipPath5207" clipPathUnits="userSpaceOnUse">
+   <path opacity=".25" style="color:#000000" d="m12 9v30l9 9h25c1.108 0 2-0.892 2-2v-25l-12-12h-24z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="0" fill="#ffc022"/>
+  <path d="m2 0c-1.108 0-2 0.892-2 2v24.625c2.9564-0.25143 8.7567-0.81162 10.719-1.6562 2.6691-1.1491 5.2639-2.9618 8.375-1.4062 3.1111 1.5555 3.8866 2.758 8.0938 1.3438 4.207-1.414 6.19-2.782 9.843-2.406 4.328 0.446 6.442 2.455 10.969 0.625v-21.125c0-1.108-0.892-2-2-2h-44z" transform="translate(0 1004.4)" fill="#0084c8"/>
+  <path style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v17.438h48v-17.438c0-1.108-0.892-2-2-2h-44z" fill-opacity=".70513" transform="translate(0 1004.4)" fill="#fff"/>
+  <path opacity=".82955" style="color:#000000" transform="matrix(2.7246 -2.7246 2.7246 2.7246 -134.12 1054.2)" fill="#e45b00" d="m29 24-0.59549 0.29389-0.09549 0.65716-0.46353-0.47553-0.65451 0.11226l0.309-0.587-0.30902-0.58778 0.65451 0.11226 0.46353-0.47553 0.09549 0.65716z"/>
+  <rect style="color:#000000" fill-opacity=".39754" ry="2" height="48" width="48" y="1004.4" x="0" fill="#fff"/>
+ </g>
+ <g>
+  <path opacity=".25" style="color:#000000" d="m12 9v27.312l-3.4688-0.937 7.2808 12.625h5.188 25c0.138 0 0.276-0.005 0.406-0.031 0.913-0.186 1.594-0.999 1.594-1.969v-18.594-6.406l-12-12h-24z"/>
+  <rect style="color:#000000" transform="rotate(15)" height="30" width="24" y="1.9705" x="17.394" fill="#fff"/>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <g transform="translate(-52.885 -3.6656)">
+   <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  </g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-81.858 -997.66)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-141.73 -999.79)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <rect opacity=".6" filter="url(#filter5185)" style="color:#000000" clip-path="url(#clipPath5207)" height="30" width="24" y="9" x="12"/>
+ </g>
+ <g>
+  <rect style="color:#000000" height="30" width="24" y="9" x="12" fill="#fff"/>
+  <path style="color:#000000" d="m14 11v23h20v-23z" fill="#ffc022"/>
+  <path d="m14 11v12.5c1.5997-0.60114 3.2554-0.85672 5.0938 0.0625 3.1111 1.5555 3.8866 2.758 8.0938 1.3438 2.906-0.977 4.744-1.908 6.812-2.281v-11.625h-20z" fill="#0084c8"/>
+  <path style="color:#000000" d="m14 11v8.4375h20v-8.438h-20z" fill-opacity=".70513" fill="#fff"/>
+  <path opacity=".82955" style="color:#000000" transform="matrix(3.1945 3.6953e-8 -3.6953e-8 3.1945 -60.468 -47.519)" fill="#e45b00" d="m29 24-0.59549 0.29389-0.09549 0.65716-0.46353-0.47553-0.65451 0.11226l0.309-0.587-0.30902-0.58778 0.65451 0.11226 0.46353-0.47553 0.09549 0.65716z"/>
+ </g>
+ <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+</svg>

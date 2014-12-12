@@ -1,0 +1,35 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" y1=".5" x2="27.5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <path style="color:#000000" d="m2 1004.4h44c1.108 0 2 0.892 2 2v44c0 1.108-0.892 2-2 2h-44c-1.108 0-2-0.892-2-2v-44c0-1.108 0.892-2 2-2z" fill="#9eabb0"/>
+  <path style="color:#000000" d="m0 39v7c0 1.108 0.892 2 2 2h7l-9-9z" transform="translate(0 1004.4)" fill="#804d00"/>
+  <path style="color:#000000" d="m9 1004.4h-7c-1.108 0-2 0.892-2 2v7l9-9z" fill="#804d00"/>
+  <path style="color:#000000" d="m39 1052.4h7c1.108 0 2-0.892 2-2v-7l-9 9z" fill="#804d00"/>
+  <path style="color:#000000" d="m48 1013.4v-7c0-1.108-0.892-2-2-2h-7l9 9z" fill="#804d00"/>
+  <g transform="translate(-40.191 1005.5)">
+   <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  </g>
+  <g transform="translate(2 1004.4)">
+   <path fill="#dcdcdc" d="m12.973 10.007c-0.60411 0.0004-1.1743 0.5714-1.1741 1.1753l0.0033 6.4606 0.0093 18.207c0.000287 0.5705 0.6047 1.1743 1.1752 1.174l18.794-0.01c0.57055-0.0003 1.1744-0.6047 1.1741-1.1752l-0.0093-18.207-0.0033-6.4605c0-0.604-0.571-1.1739-1.175-1.1736h-6.4606-5.8733-6.4606z"/>
+   <path fill="#888" d="m14.337 17.099 0.000426 0.81527 16.305-0.01023-0.000423-0.81527z"/>
+   <path fill="#888" d="m14.338 20.36 0.000425 0.81527 16.305-0.01023-0.000426-0.81517z"/>
+   <path fill="#888" d="m14.34 23.621 0.000385 0.81517 16.305-0.01023-0.000424-0.81527z"/>
+   <path fill="#888" d="m14.342 26.882 0.000387 0.81517 16.305-0.01023-0.000386-0.81517z"/>
+   <path fill="#888" d="m14.343 30.143 0.000385 0.81517 16.305-0.01023-0.000388-0.81517z"/>
+  </g>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-18.262 -1007.9)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".2" d="m27.25 17.625l-4.719 4.187-10.5 18.188 8 8h25.969c1.108 0 2-0.892 2-2v-7.625l-20.75-20.75z"/>
+ </g>
+ <g>
+  <path d="m22.518 21.817-10.5 18.187 3.4641 2 10.5-18.187l1.268-6.196z" fill="#0084c8"/>
+  <path d="m27.25 17.621-4.7321 4.1962 3.4641 2z" fill="#ffc022"/>
+ </g>
+ <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+</svg>

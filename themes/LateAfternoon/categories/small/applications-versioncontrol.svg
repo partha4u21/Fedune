@@ -1,0 +1,94 @@
+<svg viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="16">
+ <defs>
+  <clipPath id="clip1">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <clipPath id="clip2">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <clipPath id="clip4">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <clipPath id="clip3">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <clipPath id="clip5">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <filter id="alpha" height="100%" width="100%" y="0" x="0" filterUnits="objectBoundingBox">
+   <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" in="SourceGraphic"/>
+  </filter>
+  <g id="surface43" style="clip-path:url(#clip5)">
+   <path d="m107.62 188.52h89.43" transform="scale(.06185)" stroke="#fff" stroke-width="5.262" fill="none"/>
+  </g>
+  <g id="surface19" style="clip-path:url(#clip2)">
+   <path d="m118.17 93.788h89.43" transform="scale(.06185)" stroke="#fff" stroke-width="5.262" fill="none"/>
+  </g>
+  <g id="surface35" style="clip-path:url(#clip4)">
+   <path d="m107.62 156.94h89.43" transform="scale(.06185)" stroke="#fff" stroke-width="5.262" fill="none"/>
+  </g>
+  <g id="surface27" style="clip-path:url(#clip3)">
+   <path d="m118.17 125.37h89.43" transform="scale(.06185)" stroke="#fff" stroke-width="5.262" fill="none"/>
+  </g>
+  <g id="surface11" style="clip-path:url(#clip1)">
+   <path d="m107.62 62.209h89.43" transform="scale(.06185)" stroke="#fff" stroke-width="5.262" fill="none"/>
+  </g>
+  <image id="image33" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAK0lEQVQ4jWNgGAWjgAqAEZeEuaQkV/67d+Lo4ke0tZ9MO3fuN22dNQpIAwDYRwgCyE5RIAAAAABJRU5ErkJggg==" height="16"/>
+  <image id="image41" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAKklEQVQ4jWNgGAWjYFgARlwS5pKSXPnv3omjix/R1n4y7dy537R11tACAMeJCALR9OD6AAAAAElFTkSuQmCC" height="16"/>
+  <image id="image17" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAK0lEQVQ4jWNgGAUUA0Z8khXc3GJ6f/5wI4ttYmT8teLHj6e0ddYoGAWkAgDt8wgCgUr2MQAAAABJRU5ErkJggg==" height="16"/>
+  <image id="image25" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAKklEQVQ4jWNgGAXDADDik6zg5hbT+/OHG1lsEyPjrxU/fjylrbNGwVADAN01CAIg+Am9AAAAAElFTkSuQmCC" height="16"/>
+  <image id="image9" width="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAKklEQVQ4jWNgGPKAEZeEuaQk19t370TRxd20tZ9NO3fuN22dNQpGwdADABRACAJEGDhWAAAAAElFTkSuQmCC" height="16"/>
+  <linearGradient id="linear0" gradientUnits="userSpaceOnUse" x2="17.436" x1="8.718" gradientTransform="matrix(11.467 0 0 2.4142 2.3936 -8.8039)">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <mask id="mask4">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image41"/>
+   </g>
+  </mask>
+  <mask id="mask3">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image33"/>
+   </g>
+  </mask>
+  <mask id="mask1">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image17"/>
+   </g>
+  </mask>
+  <mask id="mask2">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image25"/>
+   </g>
+  </mask>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <use xlink:href="#image9"/>
+   </g>
+  </mask>
+ </defs>
+ <g stroke="#c99a69" fill="none">
+  <path stroke-width="8.073" stroke-linecap="round" d="m34.42 32.021h187.2c1.32 0 2.33 1.073 2.33 2.399v187.2c0 1.32-1.01 2.33-2.33 2.33h-187.2c-1.326 0-2.399-1.01-2.399-2.33v-187.2c0-1.326 1.073-2.399 2.399-2.399z" transform="scale(.06185)"/>
+  <path stroke-linejoin="bevel" d="m47.241 30.631l-0.126 194.71" stroke-opacity=".6" transform="scale(.06185)" stroke-miterlimit="6.4" stroke-width="5.321"/>
+ </g>
+ <use style="mask:url(#mask0)" xlink:href="#surface11"/>
+ <path d="m81.346 56.967h10.484c1.453 0 2.653 1.137 2.653 2.653v10.484c0 1.453-1.2 2.653-2.653 2.653h-10.484c-1.453 0-2.653-1.2-2.653-2.653v-10.484c0-1.516 1.2-2.653 2.653-2.653zm25.894 0c-1.26 0.064-2.27 1.011-2.21 2.021v11.748c-0.06 1.073 1.14 2.021 2.4 2.021h89.81c1.33 0 2.46-0.948 2.46-2.021v-11.748c0-1.073-1.13-2.021-2.46-2.021h-89.81-0.19z" transform="scale(.06185)" stroke="#c99a69" stroke-linecap="square" stroke-width="2.631" fill="#c99a69"/>
+ <use style="mask:url(#mask1)" xlink:href="#surface19"/>
+ <path d="m91.83 88.546h10.55c1.45 0 2.65 1.137 2.65 2.589v10.545c0 1.46-1.2 2.66-2.65 2.66h-10.55c-1.453 0-2.589-1.2-2.589-2.66v-10.545c0-1.452 1.136-2.589 2.589-2.589zm25.89 0c-1.2 0.063-2.21 1.01-2.21 2.021v11.743c0 1.08 1.2 2.03 2.47 2.03h89.81c1.26 0 2.46-0.95 2.46-2.03v-11.743c0-1.074-1.2-2.021-2.46-2.021h-89.81-0.26z" transform="scale(.06185)" stroke="#c99a69" stroke-linecap="square" stroke-width="2.631" fill="#c99a69"/>
+ <use style="mask:url(#mask2)" xlink:href="#surface27"/>
+ <path d="m91.83 120.12h10.55c1.45 0 2.65 1.14 2.65 2.59v10.55c0 1.45-1.2 2.65-2.65 2.65h-10.55c-1.453 0-2.589-1.2-2.589-2.65v-10.55c0-1.45 1.136-2.59 2.589-2.59zm25.89 0c-1.2 0.07-2.21 1.01-2.21 2.03v11.74c0 1.01 1.2 2.02 2.47 2.02h89.81c1.26 0 2.46-1.01 2.46-2.02v-11.74c0-1.08-1.2-2.03-2.46-2.03h-89.81-0.26z" transform="scale(.06185)" stroke="#c99a69" stroke-linecap="square" stroke-width="2.631" fill="#c99a69"/>
+ <use style="mask:url(#mask3)" xlink:href="#surface35"/>
+ <g stroke-linecap="square" fill="#c99a69">
+  <path stroke-width="2.631" d="m81.346 151.7h10.484c1.453 0 2.653 1.14 2.653 2.59v10.55c0 1.45-1.2 2.59-2.653 2.59h-10.484c-1.453 0-2.653-1.14-2.653-2.59v-10.55c0-1.45 1.2-2.59 2.653-2.59zm25.894 0c-1.26 0.07-2.27 1.01-2.21 1.96v11.81c-0.06 1.01 1.14 2.02 2.4 1.96h89.81c1.33 0.06 2.46-0.95 2.46-1.96v-11.81c0-1.01-1.13-2.02-2.46-1.96h-89.81-0.19z" stroke="#c99a69" transform="scale(.06185)"/>
+  <path stroke-width="5.262" d="m107.24 183.22c-1.26 0.12-2.27 1.07-2.21 2.02v11.75c-0.06 1.07 1.14 2.02 2.4 2.02h89.81c1.33 0 2.46-0.95 2.46-2.02v-11.75c0-1.01-1.13-2.02-2.46-2.02h-89.81-0.19z" stroke="url(#linear0)" transform="scale(.06185)"/>
+ </g>
+ <use style="mask:url(#mask4)" xlink:href="#surface43"/>
+ <g stroke="#c99a69">
+  <path d="m81.346 183.22h10.484c1.453 0 2.653 1.2 2.653 2.65v10.55c0 1.45-1.2 2.59-2.653 2.59h-10.484c-1.453 0-2.653-1.14-2.653-2.59v-10.55c0-1.45 1.2-2.65 2.653-2.65zm25.894 0c-1.26 0.12-2.27 1.07-2.21 2.02v11.75c-0.06 1.07 1.14 2.08 2.4 2.02h89.81c1.33 0.06 2.46-0.95 2.46-2.02v-11.75c0-1.01-1.13-2.02-2.46-2.02h-89.81-0.19z" transform="scale(.06185)" stroke-linecap="square" stroke-width="2.631" fill="#c99a69"/>
+  <g stroke-linejoin="round" stroke-opacity=".6" stroke-miterlimit="6.4" stroke-width="5.266" fill="none">
+   <path d="m74.083 188.52l-24.315 0.07m24.315-31.58h-24.315m24.315-94.737l-24.315 0.063" transform="scale(.06185)"/>
+   <path d="m84.63 125.24l-34.862 0.06m34.862-31.449h-34.862" transform="scale(.06185)"/>
+  </g>
+ </g>
+</svg>

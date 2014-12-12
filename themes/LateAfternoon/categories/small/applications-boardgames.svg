@@ -1,0 +1,9 @@
+<svg viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="16">
+ <g stroke="#ff4545">
+  <path stroke-width="8" fill="none" d="m65.115 39.157h133.08c12.49 0 22.66 10.105 22.66 22.674v132.31c0 12.57-10.17 22.74-22.67 22.74h-133.08c-12.5 0-22.732-10.17-22.732-22.74v-132.31c0-12.568 10.232-22.673 22.737-22.673z" transform="scale(.06185)"/>
+  <g stroke-linecap="round" stroke-dasharray="0,159">
+   <path stroke-width="119" d="m436.94 116.93h-437.02m437.02 323.05h-437.02" transform="matrix(.02007 0 0 .01999 2.5523 2.3504)"/>
+   <path stroke-width="109" d="m436.94 116.93h-437.02m437.02 323.05h-437.02" transform="matrix(.02007 0 0 .01999 2.5523 2.3504)"/>
+  </g>
+ </g>
+</svg>

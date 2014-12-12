@@ -1,0 +1,7 @@
+<svg viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="48">
+ <g fill-rule="evenodd">
+  <path d="m6 6h20c4 0 4 0 4 4.449v31.102c0 4.449 0 4.449-4 4.449h-20c-4 0-4 0-4-4.449v-31.102c0-4.449 0-4.449 4-4.449z" fill="#888"/>
+  <path d="m18 2h20c4 0 4 0 4 4.4492v31.102c0 4.449 0 4.449-4 4.449h-20c-4 0-4 0-4-4.449v-31.102c0-4.449 0-4.449 4-4.449z" fill="#fff"/>
+ </g>
+ <path d="m46 30h-8v-8h-8v8h-8v8h8v8h8v-8h8z" fill="#859900"/>
+</svg>

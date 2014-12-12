@@ -1,0 +1,22 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" y1=".5" x2="27.5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="-.0625" fill="#ccc"/>
+ </g>
+ <g>
+  <flowRoot opacity=".25" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(32.627 -1001.2)" font-family="sans-serif" fill="#000000"><flowRegion><rect height="49.321" width="57.629" y="6.6343" x="-53.033" fill="#000"/></flowRegion><flowPara/></flowRoot>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-104.89 -1017.8)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".25" d="m22.219 5.25v14.938l-8.219-6.25-2.781 2.218 8.875 8.875-9.032 6.813 16.157 16.156h18.719c1.108 0 2-0.892 2-2v-18.156l-11.313-11.313-14.406-11.281z" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <path d="m22.219 5.25v14.949l-8.2148-6.25-2.785 2.215 10.222 7.836-10.379 7.836 3.25 2.4493 7.9062-6.3594v14.824l14.72-10.914-9.754-7.711 9.441-7.605zm4.031 7.234 4.809 4.157-4.809 3.679zm-0.15625 15.562 5.1211 3.664-4.8086 3.3125z" fill-rule="evenodd" fill="#005c94"/>
+ </g>
+ <g>
+  <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+ </g>
+</svg>

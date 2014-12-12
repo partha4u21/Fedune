@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+ <g transform="matrix(-1 0 0 -1 8 24)" fill="#268bd2">
+  <path d="m0 13.879 2.1213 2.121 4.2427-4.243-2.1214-2.121z"/>
+  <path d="m1 9h6v6z"/>
+ </g>
+ <g transform="translate(8 -8)" fill="#268bd2">
+  <path d="m0 13.879 2.1213 2.121 4.2427-4.243-2.1214-2.121z"/>
+  <path d="m1 9h6v6z"/>
+ </g>
+</svg>

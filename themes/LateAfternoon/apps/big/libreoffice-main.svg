@@ -1,0 +1,17 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" y1=".5" x2="27.5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m2 1004.4c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-19-1.4375l-25.562-25.562h-1.4688-18.969z" fill="#364e59"/>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m4 1008.4h17l23 23v17h-40z" fill="#fff"/>
+  <path style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m27 1004.4 21 21v-19c0-1.108-0.892-2-2-2z" fill="#364e59"/>
+ </g>
+ <g fill="url(#linearGradient12443)">
+  <path opacity=".4" style="color:#000000" d="m27 0 0.5 0.5 2.9601 2.95h0.64926l-2.968-2.95h17.859c0.83101 0 1.5 0.66899 1.5 1.5v18.5l0.5 0.5v-19c0-1.108-0.892-2-2-2z"/>
+  <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c0.554 0 1.0448-0.23225 1.4062-0.59375 0.362-0.361 0.594-0.852 0.594-1.406v-19-1.4375l-0.5-0.5v20.938c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5h20.261l2.9862 2.95h0.63687l-2.946-2.95-0.5-0.5z"/>
+ </g>
+</svg>

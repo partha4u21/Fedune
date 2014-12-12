@@ -1,0 +1,10 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(-644.57 -451.79)">
+  <path style="color:#000000" d="m647.57 451.79c-0.50268 0-1 0.49731-1 1v14c0 0.50268 0.49732 1 1 1h10c0.50269 0 1-0.49732 1-1v-14c0-0.50269-0.49731-1-1-1zm1 2h8v12h-8z" fill="#0084c8"/>
+  <rect id="rect5607" style="color:#000000" ry=".34783" height=".99999" width="6" y="454.79" x="649.57" fill="#0084c8"/>
+  <use id="use4108" xlink:href="#rect5607" transform="translate(0,2)" height="16" width="16" y="0" x="0"/>
+  <use id="use4110" xlink:href="#use4108" transform="translate(0,2)" height="16" width="16" y="0" x="0"/>
+  <use id="use4112" xlink:href="#use4110" transform="translate(0,2)" height="16" width="16" y="0" x="0"/>
+  <use xlink:href="#use4112" transform="translate(0,2)" height="16" width="16" y="0" x="0"/>
+ </g>
+</svg>

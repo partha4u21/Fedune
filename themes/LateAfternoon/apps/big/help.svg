@@ -1,0 +1,31 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient12443" y2="3" gradientUnits="userSpaceOnUse" x2="27.5" y1=".5" x1="27.5">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="2" height="48" width="48" y="1004.4" x="-.0625" fill="#f60"/>
+  <path style="color:#000000" d="m2 1004.4c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h8.0625v-48h-8.0625z" fill="#642c00"/>
+  <path style="color:#000000" d="m3 1005.4c-1.108 0-2 0.892-2 2s0.892 2 2 2h44.938v-3c0-0.3661-0.11087-0.7054-0.28125-1h-44.656z" fill="#fff"/>
+  <rect opacity=".2" style="color:#000000" ry="0" height="42.938" width="1" y="1009.4" x="9"/>
+  <rect opacity=".2" style="color:#000000" ry="0" height="42.938" width="1" y="1009.4" x="10" fill="#fff"/>
+  <path d="m3 1006.4h45" stroke="#9eabb0" stroke-width=".5" fill="none"/>
+  <path d="m3 1008.4h45" stroke="#9eabb0" stroke-width=".5" fill="none"/>
+ </g>
+ <g>
+  <flowRoot opacity=".25" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(32.627 -1001.2)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect height="49.321" width="57.629" y="6.6343" x="-53.033" fill="#000"/></flowRegion><flowPara/></flowRoot>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" transform="translate(-104.89 -1017.8)" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" width="57.629" x="-53.033" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".25" style="color:#000000" d="m3 4v14l30 30h1.438 11.5c1.108 0 2-0.892 2-2v-7.062-8.719l-13.532-13.5-0.187-0.188c-0.212-0.255-0.444-0.506-0.719-0.719-0.493-0.385-1.092-0.694-1.75-0.937-0.009-0.003-0.022 0.003-0.031 0-0.886-0.323-1.912-0.527-3.094-0.594-0.01 0-0.021 0.001-0.031 0-0.299-0.016-0.589-0.031-0.906-0.031-0.969 0-1.99 0.104-3.032 0.312-0.275 0.056-0.582 0.148-0.875 0.219l-10.781-10.781h-10z"/>
+ </g>
+ <g>
+  <path style="color:#000000" d="m3 4h10v14l-5-5-5 5z" fill="#005c94"/>
+  <g fill="#fff">
+   <path d="m30.078 30.125h-5.6406v-0.76562c-0.000005-0.85416 0.17187-1.6094 0.51562-2.2656 0.34374-0.66666 1.0677-1.5104 2.1719-2.5312l1-0.90625c0.59374-0.54165 1.026-1.0521 1.2969-1.5312 0.28124-0.47915 0.42186-0.95832 0.42188-1.4375-0.000011-0.72915-0.25001-1.2969-0.75-1.7031-0.50001-0.41665-1.1979-0.62498-2.0938-0.625-0.84376 0.00002-1.7552 0.1771-2.7344 0.53125-0.97917 0.34377-2 0.85939-3.0625 1.5469v-4.9062c1.2604-0.43748 2.4115-0.76039 3.4531-0.96875 1.0417-0.20831 2.0469-0.31248 3.0156-0.3125 2.5417 0.000024 4.4792 0.52086 5.8125 1.5625 1.3333 1.0313 2 2.5417 2 4.5312-0.000016 1.0208-0.20314 1.9375-0.60938 2.75-0.40626 0.8021-1.099 1.6667-2.0781 2.5938l-1 0.89062c-0.70834 0.64584-1.1719 1.1667-1.3906 1.5625-0.21876 0.38543-0.32814 0.81251-0.32812 1.2812v0.70312m-5.6406 2.3125h5.6406v5.5625h-5.6406v-5.5625" fill="#fff"/>
+  </g>
+ </g>
+ <g>
+  <path opacity=".4" style="color:#000000" d="m2 0c-1.108 0-2 0.892-2 2v44c0 1.108 0.892 2 2 2h44c1.108 0 2-0.892 2-2v-44c0-1.108-0.892-2-2-2h-44zm0 0.5h44c0.83101 0 1.5 0.66899 1.5 1.5v44c0 0.83101-0.66899 1.5-1.5 1.5h-44c-0.831 0-1.5-0.669-1.5-1.5v-44c0-0.831 0.669-1.5 1.5-1.5z" fill="url(#linearGradient12443)"/>
+ </g>
+</svg>

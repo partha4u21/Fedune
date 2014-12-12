@@ -1,0 +1,18 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(0 -1004.4)">
+  <rect style="color:#000000" ry="0" height="32" width="25" y="1012.4" x="10" fill="#bb8f4d"/>
+  <path fill="#dcdcdc" d="m28.055 1014.4c-0.5233-0.3019-1.3026-0.092-1.6044 0.4306l-3.2279 5.5964-9.0969 15.772c-0.28506 0.4942-0.06359 1.3193 0.43064 1.6044l16.28 9.3903c0.49423 0.285 1.3194 0.064 1.6044-0.4306l9.0969-15.772 3.2279-5.5964c0.30183-0.5233 0.09266-1.3026-0.43064-1.6044l-5.5964-3.228-5.0876-2.9344-5.5964-3.2279z"/>
+  <path fill="#888" d="m26.006 1021.1-0.39814 0.6903 13.806 7.9629 0.39814-0.6903z"/>
+  <path fill="#888" d="m24.413 1023.8-0.39814 0.6903 13.806 7.9629 0.39814-0.6903z"/>
+  <path fill="#888" d="m22.821 1026.6-0.39813 0.6902 13.806 7.9629 0.39814-0.6903z"/>
+  <path fill="#888" d="m21.228 1029.4-0.39813 0.6902 13.806 7.9629 0.39813-0.6902z"/>
+  <path fill="#888" d="m19.635 1032.1-0.39813 0.6902 13.806 7.9629 0.39813-0.6902z"/>
+ </g>
+ <g>
+  <flowRoot style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-18.262 -1007.9)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion><rect y="6.6343" x="-53.033" width="57.629" height="49.321"/></flowRegion><flowPara/></flowRoot>
+  <path opacity=".2" style="color:#000000" d="m10 8v32h15.875l4.969 2.875c0.494 0.285 1.308 0.057 1.594-0.437l1.406-2.438h1.156v-2l1.812-3.188-26.812-26.812z"/>
+ </g>
+ <g>
+  <path d="m10 8v32l13.333 8v-48z" fill="#bb8f4d"/>
+ </g>
+</svg>
