@@ -1,7 +1,0 @@
-<svg viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="48">
- <path fill="#268bd2" d="m44 24c0 11.043-8.957 20-20 20s-20-8.957-20-20 8.957-20 20-20 20 8.957 20 20z" fill-rule="evenodd"/>
- <g fill="#fff" fill-opacity=".902">
-  <path d="m28 36h-8v-12h8v12"/>
-  <path d="m28 16c0 2.203-1.797 4-4 4s-4-1.797-4-4 1.797-4 4-4 4 1.797 4 4z" fill-rule="evenodd"/>
- </g>
-</svg>

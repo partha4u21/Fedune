@@ -1,8 +1,0 @@
-<svg width="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" height="22">
- <g fill-rule="evenodd">
-  <path opacity=".3" d="m12.062 6.1875l-6.062 6.8125h3l-1 7 8-10h-3l0.625-3.8125h-1.563z"/>
-  <path d="m11.156 6.1875l-5.156 5.8125h3l-1 7 8-10h-3l0.469-2.8125h-2.313z" fill="#dcdcdc"/>
- </g>
- <path opacity=".12" d="m14 4l-1.938 2.1875h1.563l0.375-2.1875z"/>
- <path opacity=".3" fill="#dcdcdc" d="m14 3l-2.844 3.1875h2.313l0.531-3.1875z" fill-rule="evenodd"/>
-</svg>

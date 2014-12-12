@@ -1,8 +1,0 @@
-<svg viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="48">
- <g fill-rule="evenodd">
-  <path d="m14 4h20c6 0 8 2 8 8v24c0 6-2 8-8 8h-20c-6 0-8-2-8-8v-24c0-6 2-8 8-8z" fill="#268bd2"/>
-  <path fill="#fff" d="m14 4h20c6 0 8 2 8 8v16c0 6-2 8-8 8h-20c-6 0-8-2-8-8v-16c0-6 2-8 8-8z" fill-opacity=".102"/>
- </g>
- <path d="m20 10v2h8v-2zm0 4v4h8v-4zm-5 6l9 10 9-10z" fill="#fff"/>
- <path fill="#268bd2" d="m20 10v2h8v-2zm0 4v4h8v-4zm-5 6l9 10 9-10z" fill-opacity=".102"/>
-</svg>
