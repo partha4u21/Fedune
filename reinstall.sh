@@ -16,12 +16,12 @@ echo "unzipping neceassary files..."
 
 BASEDIR=$(dirname $0)
 
-#if tar -xzf $BASEDIR/core.tar.gz;
-#then 
-#   echo "Successfully extracted required files"
-#else 
-#   echo "Couldnt extract required files "
-#fi
+if tar -xzf $BASEDIR/core.tar.gz;
+then 
+   echo "Successfully extracted required files"
+else 
+   echo "Couldnt extract required files "
+fi
 
 
 echo " ============== Copying Repo Files ==========="
